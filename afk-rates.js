@@ -11,9 +11,9 @@
   'use strict';
 
   var RATE = {
-    exp: 5,
-    drop: 2,
-    gold: 2
+    exp: 50,
+    drop: 50,
+    gold: 100
   };
 
   function num(v, d) { v = Number(v); return (isFinite(v) && v > 0) ? v : d; }
