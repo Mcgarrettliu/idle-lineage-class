@@ -11,7 +11,7 @@
   'use strict';
 
   var RATE = {
-    exp: 500,
+    exp: 800,
     drop: 150,
     gold: 400
   };
